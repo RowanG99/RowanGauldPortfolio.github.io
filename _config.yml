@@ -47,7 +47,7 @@ content:
         link: https://www.bmwithub.co.za/
         quote: BMW IT Hub Graduate programme
         sub_title: Graduate
-        caption: 2024-2026
+        caption: 2023
         description: | # this will include new lines to allow paragraphs
           - Received training specific to AWS and obtained my AWS CP certification
           - Received training specific to Agile and CICD
@@ -62,30 +62,33 @@ content:
         description: | # this will include new lines to allow paragraphs
             - One of the assistant lecturers that led tutorial sessions
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education and Certifications
+    layout: columns
     content:
-      - layout: left
-        title: University of Pretoria
-        caption: 2022
-        sub_title: BComHons Informatics
-      
-      - layout: left
-        title: University of Pretoria
-        caption: 2019-2021
-        sub_title: BCom Informatics
+      - layout: list
+        title: Education
+        content:
+          - layout: left
+            title: University of Pretoria
+            caption: 2022
+            sub_title: BComHons Informatics
 
-  - title: Certifications
-    layout: list
-    content:
-      - layout: left
-        title: AWS Cloud Practitioner
+          - layout: left
+            title: University of Pretoria
+            caption: 2019-2021
+            sub_title: BCom Informatics
 
-      - layout: left
-        title: AWS Developer Associate
+      - layout: list
+        title: Certifications
+        content:
+          - layout: left
+            title: AWS Cloud Practitioner
 
-      - layout: left
-        title: Comptia Networking
+          - layout: left
+            title: AWS Developer Associate
+
+          - layout: left
+            title: Comptia Networking
   
   - title: Technologies
     layout: list
