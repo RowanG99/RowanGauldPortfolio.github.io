@@ -83,7 +83,10 @@ content:
             - Designed and developed scripts and tooling relating to our CICD pipeline such creating or automatically renewed SSL certificates and uploaded them to AWS ACM, updating documentation relating to deployments, ensuring our runners had enough space and more
             - Designed and developed our unit testing environment
             - Responsible for our security posture, ensuring our application met compliance standards
-        
+            
+      - layout: left
+        title: BMW IT Hub
+        link: https://www.bmwithub.co.za/
         sub_title: Graduate
         caption: 2024-2026
         quote: >
