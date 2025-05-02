@@ -62,7 +62,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             - One of the assistant lecturers that led tutorial sessions
 
-  - title: Education Certificates # Title for the section
+  - title: Education and Certificates # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -76,13 +76,11 @@ content:
         sub_title: BCom Informatics
       
       - layout: left
-        title: AWS Cloud Practitioner
-
-      - layout: left
-        title: AWS Developer Associate
-
-      - layout: left
-        title: Comptia Networking
+        title: Certificates
+        description: |
+          - AWS Cloud Practitioner
+          - AWS Developer Associate
+          - Comptia Networking
   
   - title: Technologies
     layout: list
