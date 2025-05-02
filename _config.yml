@@ -62,33 +62,26 @@ content:
         description: | # this will include new lines to allow paragraphs
             - One of the assistant lecturers that led tutorial sessions
 
-  - title: Education and Certifications
-    layout: columns
+  - title: Education and Certificates
     content:
-      - layout: list
-        title: Education
-        content:
-          - layout: left
-            title: University of Pretoria
-            caption: 2022
-            sub_title: BComHons Informatics
+      - layout: left
+        title: University of Pretoria
+        caption: 2022
+        sub_title: BComHons Informatics
+      
+      - layout: left
+        title: University of Pretoria
+        caption: 2019-2021
+        sub_title: BCom Informatics
+      
+      - layout: left
+        title: AWS Cloud Practitioner
 
-          - layout: left
-            title: University of Pretoria
-            caption: 2019-2021
-            sub_title: BCom Informatics
+      - layout: left
+        title: AWS Developer Associate
 
-      - layout: list
-        title: Certifications
-        content:
-          - layout: left
-            title: AWS Cloud Practitioner
-
-          - layout: left
-            title: AWS Developer Associate
-
-          - layout: left
-            title: Comptia Networking
+      - layout: left
+        title: Comptia Networking
   
   - title: Technologies
     layout: list
