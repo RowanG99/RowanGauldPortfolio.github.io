@@ -1,30 +1,24 @@
-# Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
-# Content configuration version
 version: 2
 
-# Personal info
 name: Rowan Gauld
 title: Intermediate Software Engineer/Developer
-email: rowangauld1@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: true
 
-# Social links
 github_username: RowanG99
 linkedin_username: Rowan Gauld
 
-# About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  I am a backend and devops engineer/developer that has experience in using modern and more mature technologies to solve problems within the context of software development and engineering. 
-  I like to think that I don't just developer solutions, I engineer them. I am a firm believer that the software must not just work but it must work well, it needs to be tested thoroughly, optimized and refined. 
-  I enjoy developing a variety of software, ranging from; scripts that automate processes, APIs, services, web applications and I dabble with software written in C such as interpreters, compilers and OS. 
-  From a language perspective, my toolbox consists of the following; Python, Go, C, Terraform, Bash and I can work with SQL and JS and I can use a wide range of other technologies such as AWS, Azure, Git, Docker, etc.
+  I am a backend and devops engineer/developer that has experience in using modern and more mature technologies to solve problems within the context of software development and engineering.
+  I’d like to think that I don't just developer solutions, I engineer them. I am a firm believer that the software must not just work but it must work well.
+  I enjoy developing a variety of software, ranging from; scripts that automate processes, APIs, services, web applications and I dabble with software written in C such as interpreters, compilers and OS.
+  My toolbox consists of but is not limited to the following; Python, Go, C, Terraform, Bash and I can work with SQL and JS and I can use a wide range of other technologies such as AWS, Azure, Git and Docker.
 
 content:  
   - title: Experience
@@ -39,7 +33,7 @@ content:
         description: | 
           - Designed and developed key client facing APIs such as metric calculations and CRUD processes
           - Designed and developed internal APIs that ensured data in our database remained up to date and reliable
-          - Designed and developed scripts and tooling relating to our CICD pipeline such creating or automatically renewed SSL certificates and uploaded them to AWS ACM, updating documentation relating to deployments, ensuring our runners had enough space and more
+          - Designed and developed scripts and tooling relating to our CICD pipeline such creating or automatically renewing SSL certificates and uploaded them to AWS ACM, updating documentation relating to deployments, ensuring our runners had enough space and more
           - Designed and developed our unit testing environment
           - Responsible for our security posture, ensuring our application met compliance standards
 
@@ -94,32 +88,36 @@ content:
       
       - layout: left
         title: Crafting Interpreters by Robert Nystrom
-        link: link_to_be_inserted
         description: |
-          After completing the book "The C Programming Languages" by Brain Kernighan and Dennies Richie, I wanted to apply what I have learnt and used this book as a guide for creating an interpreter.
+          In Progress
+        # description: |
+        #   After completing the book "The C Programming Languages" by Brain Kernighan and Dennies Richie, I wanted to apply what I have learnt and used this book as a guide for creating an interpreter.
       
       - layout: left
         title: Learning Go with Pocket-Sized Projects by Aliénor Latour, Pascal Bertrand, Donia Chaiehloudj
-        link: link_to_be_inserted
         description: |
-          Thinking about what type of software I'd like to make in the future and what my current tool box contains, I thought Golang would be a great addition.
+          In Progress
+        # description: |
+        #   Thinking about what type of software I'd like to make in the future and what my current tool box contains, I thought Golang would be a great addition.
 
       - layout: left
         title: C Interfaces and Implementations, Techniques for Creating Reusable Software
-        link: link_to_be_inserted
         description: |
-          Not only did I think this book would help me expand my knowledge in C but in programming and software engineering in general.
+          In Progress
+        # description: |
+        #   Not only did I think this book would help me expand my knowledge in C but in programming and software engineering in general.
 
       - layout: left
         title: Automate the Boring Stuff with Python by Al Sweigart
-        link: link_to_be_inserted
         description: |
-          I used this book to expand my Python knowledge.
+          In Progress
+        # description: |
+        #   I used this book to expand my Python knowledge.
 
 
 # Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+# footer_show_references: true
+references_title: Thank you, sproogen/resume-theme
 
 # Build settings
 remote_theme: sproogen/resume-theme
