@@ -62,7 +62,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             - One of the assistant lecturers that led tutorial sessions
 
-  - title: Education and Certificates
+  - title: Education Certificates # Title for the section
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of Pretoria
