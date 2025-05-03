@@ -10,7 +10,7 @@ title: Intermediate Software Engineer/Developer
 darkmode: true
 
 github_username: RowanG99
-linkedin_username: www.linkedin.com/in/rowan-gauld
+linkedin_username: rowan-gauld
 
 about_title: About Me
 about_profile_image: images/profile.jpg
@@ -46,14 +46,14 @@ content:
         description: | 
           - Received training specific to AWS and obtained my AWS CP certification
           - Received training specific to Agile and CICD
-          - Participated in internal hackathons such as developing a dashboard to view data relating to the movement of BMWs as the ownership changes from first hand owners to second hand owners
+          - Participated in internal hackathons such as developing a dashboard to view data relating to the movement of BMW's as the ownership changes from first hand owners to second hand owners
 
       - layout: left
         title: University of Pretoria
         link: https://www.up.ac.za/
         quote: First year programming - Informatics Dept.
         sub_title: Assistant Lecture
-        caption: 2024-2026
+        caption: 2022
         description: |
             - One of the assistant lecturers that led tutorial sessions
 
@@ -116,7 +116,7 @@ content:
 
 
 # Footer
-# footer_show_references: true
+footer_show_references: true
 references_title: Thank you, sproogen/resume-theme
 
 # Build settings
