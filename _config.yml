@@ -15,10 +15,7 @@ linkedin_username: rowan-gauld
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  I am a backend and devops engineer/developer that has experience in using modern and more mature technologies to solve problems within the context of software development and engineering.
-  I’d like to think that I don't just developer solutions, I engineer them. I am a firm believer that the software must not just work but it must work well.
-  I enjoy developing a variety of software, ranging from; scripts that automate processes, APIs, services, web applications and I dabble with software written in C such as interpreters, compilers and OS.
-  My toolbox consists of but is not limited to the following; Python, Go, C, Terraform, Bash and I can work with SQL and JS and I can use a wide range of other technologies such as AWS, Azure, Git and Docker.
+  I am a backend and devops engineer/developer that has experience in using modern and more mature technologies to solve problems within the context of software development    and engineering. I enjoy developing a variety of software, ranging from; scripts that automate processes, APIs, services, web applications and I have started messing around with Arduino. The more I learn about software, the more I appreciate the work put into many of the components I take for granted such as interpreters, compilers, operating systems and protocols. My toolbox consists of but is not limited to the following; Python, Terraform, Bash and I can work with SQL, JS, Go and C (I intend on prioritizing Go and C) and I can use a wide range of other technologies such as AWS, Azure, Git and Docker.
 
 content:  
   - title: Experience
@@ -35,7 +32,7 @@ content:
           - Designed and developed internal APIs that ensured data in our database remained up to date and reliable
           - Designed and developed scripts and tooling relating to our CICD pipeline such creating or automatically renewing SSL certificates and uploaded them to AWS ACM, updating documentation relating to deployments, ensuring our runners had enough space and more
           - Designed and developed our unit testing environment
-          - Responsible for our security posture, ensuring our application met compliance standards
+          - Worked on our security and compliance posture
 
       - layout: left
         title: BMW IT Hub
